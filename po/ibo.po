@@ -33,23 +33,23 @@ msgid "rice and beans"
 msgstr "osikapa na agwa"
 
 msgid "show"
-msgstr "show"
+msgstr "izi"
 
 msgid "text"
 msgstr "ederede"
 
 msgid "random"
-msgstr "random"
+msgstr "-emeghị atụmatụ"
 
 msgid "confirm"
 msgstr "gosi"
 
 #. TRANS: musical meter
 msgid "meter"
-msgstr ""
+msgstr "mita"
 
 msgid "Save your project to a file."
-msgstr ""
+msgstr "Azọpụta oru gi na akwụkwọ ikpe"
 
 #. TRANS: mashape webservices (probably no need to translate)
 msgid "mashape"
@@ -61,36 +61,36 @@ msgstr "lekwasịrị"
 
 #. TRANS: horizontal space
 msgid "hspace"
-msgstr ""
+msgstr "kehoraizin ohere"
 
 msgid "keyboard"
-msgstr "keyboard"
+msgstr "kiiboodu"
 
 msgid "You can also load projects from the file system."
 msgstr "giwa nwekwara ike mara oru ngo si faịlụ usoro"
 
 #. TRANS: as in "on event do"
 msgid "on"
-msgstr ""
+msgstr "na omume me"
 
 msgid "chicken"
 msgstr "okuko"
 
 msgid "Run music slow"
-msgstr ""
+msgstr "Agba ọsọ egwu ngwa ngwa"
 
 msgid "apple"
 msgstr "apụl"
 
 msgid "graphical notation matrix"
-msgstr ""
+msgstr "esemese nnọchianya matriks"
 
 msgid "number"
 msgstr "nọmba"
 
 #. TRANS: unique ID
 msgid "UID"
-msgstr ""
+msgstr "njirimara pụrụ iche"
 
 #. TRANS: name of project
 msgid "title"
@@ -107,7 +107,7 @@ msgstr "Wepu"
 
 #. TRANS: ms is micro seconds
 msgid "duration (ms)"
-msgstr ""
+msgstr "oge (ms)"
 
 #. TRANS: as in "add 1 to"
 msgid "to"
@@ -151,11 +151,11 @@ msgid "stop turtle"
 msgstr "kwusi mbe "
 
 msgid "current pitch octave"
-msgstr ""
+msgstr "ugbu a olu octave"
 
 #. TRANS: robot sensors.
 msgid "distance"
-msgstr ""
+msgstr "ntoanya"
 
 msgid "food"
 msgstr "nri"
@@ -168,7 +168,7 @@ msgstr "kwụsị"
 
 #. TRANS: vertical space
 msgid "vspace"
-msgstr ""
+msgstr "vetikal ohere"
 
 msgid "fat"
 msgstr "ibu"
@@ -178,7 +178,7 @@ msgstr "Ịmụbawanye ma ọ bụ daa stacks nke blocks, dịka, na-amalite na 
 
 #. TRANS: a container for a variable
 msgid "boxes"
-msgstr ""
+msgstr "igbe"
 
 msgid "get fiber"
 msgstr "na-eriri"
